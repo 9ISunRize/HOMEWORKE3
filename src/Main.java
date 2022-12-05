@@ -108,6 +108,6 @@ public class Main {
         System.out.println( "Маша теперь получает "+promotionsMasha+" рублей. Годовой доход вырос на "+differenceM+" рублей");
         System.out.println( "Маша теперь получает "+promotionsDenis+" рублей. Годовой доход вырос на "+differenceD+" рублей");
         System.out.println( "Маша теперь получает "+promotionsKristina+" рублей. Годовой доход вырос на "+differenceK+" рублей");
-
+        //готовао
     }
 }
